@@ -1,14 +1,15 @@
 # Final Portfolio
 
-This repository is a collection of some of my key learnings during my XXXX - XXXX apprenticeship at COMPANY_HERE.
+This repository is a collection of some of my key learnings during my 2023 - 2024 apprenticeship at Expedia Group.
 
 ## Overview of Apprenticeship
-- **Host Company**:
-- **Duration**:
-- **Link to Portfolio Website**:
+- **Expedia Group**: ✈️🌎
+- **Seattle, WA**: 🌧️🌧️
+- **15 Months**: 📆
+- **Link to Portfolio Website PENDING**: 
 
 ## Portfolio Introduction
-- Who you are
-- Why you do what you do
-- The teams you have worked on
-- Your areas of interest
+- Aspring Software Engineer and Entrepreneur 👨‍💻💡
+- Developing a passion for development, and growing with each opportunity!
+- Conversation Platform Console team 
+- Your areas of interests: React, JavaScript, Typescript, Node, Express.js, SDLC, CI/CD, Scrum, DS&A, Testing/Quality Assurance, Problem Solving, Communication, and Critical Thinking
