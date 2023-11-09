@@ -23,17 +23,20 @@ Give a high-level overview of the project purpose
 
 ## Competencies
 ### JF 1.7 Follow company, team or client approaches to continuous integration, version and source control
-- List the full text of the job function first
-- Describe a situation where you demonstrated  this job function.
-- Summarize the actions you took to accomplish the goal. 
-- Emphasize the results of this action for your team or your learning. 
-- Connect the competentcy to this project
+
+My company and team uses a wide variety of tools for continuous integration and continuous deployment/delivery, most notably: Github, GHAs, Jenkins, Docker, Spinnaker, and AWS. Due to scope and cost I was only able to use a handful of tools in this project, but plan to continue integrating more GHA workflows for testing and deployment/delivery. 
+
+My current deployment utilizes the following technologies/tools for CI/CD: Github, GHAs and Renderjs. With every commit made to my backend repo, Renderjs automatically redeploy's the app with no manual intervention involved. Current and future GHA workflows will be updated to build and test my app with each commit and PR.
+
 
 ### JF 4.5 Software testing frameworks and methodologies
 
+For this project I used a wide variety of tools and technologies for testing my full-stack app, beginning with simple unit testing of react components to more complex integration and end-to-end testing. 
+
+My current testing experiences with my team have mostly been manual and unit testing of the frontend. By working on this app it has developed my understanding of different tools and technologies used in react and web development, allowing me to bring a new persepctive to my team. 
 
 - List the full text of the job function first
-- Describe a situation where you demonstrated  this job function.
+- Describe a situation where you demonstrated this job function.
 - Summarize the actions you took to accomplish the goal. 
 - Emphasize the results of this action for your team or your learning. 
 - Connect the competentcy to this project
